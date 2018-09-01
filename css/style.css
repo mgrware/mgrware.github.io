@@ -1121,9 +1121,10 @@ ul.slides li {
 	}
 
 	.hero h1 {
-		font-size: 100px;
-		line-height: 80px;
+		font-size: 50px;
+		line-height: 60px;
 		margin-top: 65px;
+		text-align: left;
 }
 }
 /* 480px (WVGA - Low End Windows Phone) */
@@ -1199,6 +1200,7 @@ ul.slides li {
 
 	.hero h3 {
 	    letter-spacing: 10px;
+	    text-align: left;
 	}
 
 
